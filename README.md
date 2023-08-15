@@ -1,1 +1,1 @@
-# Calculo-Numerico
+# Laboratorio de Cálculo Numérico
